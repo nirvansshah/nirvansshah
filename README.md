@@ -16,9 +16,9 @@ I am a student innovator and robotics competitor. This GitHub profile serves as 
 Here you will find the code and documentation for my major projects. *(Note: Click the titles to view the source code)*
 
 * **[RCJ BotMasters Rescue Line (RoboCup 2025)](Link_To_Your_Repo):** Code for an autonomous robot designed to follow a black line, overcome obstacles, and rescue victims sorted by color[cite: 1]. 
-* **[Maze Solver Robot (Robotex 2025)](Link_To_Your_Repo):** Algorithms for an autonomous robot programmed to negotiate a 16x16 square maze to a specified corner in the shortest possible time[cite: 1].
+* **[Maze Solver Robot (Robotex 2025)](https://github.com/nirvansshah/maze-solver):** Algorithms for an autonomous robot programmed to negotiate a 16x16 square maze to a specified corner in the shortest possible time[cite: 1].
 * **[Echo - Smart Mirror](Link_To_Your_Repo):** Built with real-time motion tracking, visual pose overlay, and scoring functionality[cite: 1].
-* **[Urban Delivery Autonomous Robot](Link_To_Your_Repo):** Developed algorithms for adaptive navigation, dynamic obstacle avoidance, and package handling[cite: 1].
+* **[Urban Delivery Autonomous Robot]([Link_To_Your_Repo](https://github.com/nirvansshah/PID-Line-Follower)):** Developed algorithms for adaptive navigation, dynamic obstacle avoidance, and package handling[cite: 1].
 
 ---
 *Feel free to explore my public repositories below to see my work in action!*
