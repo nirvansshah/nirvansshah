@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Nirvan Sagar Shah
+# Hey there 👋, I'm Nirvan Sagar Shah
 
 I am a student innovator, competitive programmer, and robotics enthusiast. I love bridging the gap between theoretical mathematics and physical hardware. Whether I am writing algorithms for autonomous navigation or building smart, privacy-first hardware, my goal is to create systems that solve real-world problems.
 
